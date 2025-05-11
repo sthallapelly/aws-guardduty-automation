@@ -24,5 +24,5 @@ This project enables and automates AWS GuardDuty configurations and responses us
    bash enable_guardduty_single_account.sh
 ``
 ### For detailed information on GuardDuty refer to my blog post 
-
+https://techbrains.hashnode.dev/mastering-aws-security-post-3-guardduty-your-intelligent-threat-hunter
 
