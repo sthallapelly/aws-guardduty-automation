@@ -1,0 +1,5 @@
+{
+  "roleARN": "arn:aws:iam::YOUR_ACCOUNT_ID:role/FirehoseDeliveryRole",
+  "bucketARN": "arn:aws:s3:::YOUR_BUCKET_NAME",
+  "prefix": "guardduty/"
+}
